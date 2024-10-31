@@ -34,3 +34,12 @@ Experienting with edit and preview
 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
 
 
+# Keyboard Shortcuts I use too much
+* Alt + Tab (Switch windows)
+* Ctrl + W (Close Tab)
+* Win + Number (Opens the window in corresponding number position on the Taskbar)
+
+# Keyboard Shortcuts I don't use but probably should
+* Win + M (Minimize all windows)
+* Win + Alt + D (Open date and time)
+* Alt + Page Up/Down (Move up/down one screen)
