@@ -47,3 +47,4 @@ Experienting with edit and preview
 
 # Lab 5 content
 * [CLI Commands](docs/cli.md)
+* More content more content
