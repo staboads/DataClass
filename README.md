@@ -43,3 +43,7 @@ Experienting with edit and preview
 * Win + M (Minimize all windows)
 * Win + Alt + D (Open date and time)
 * Alt + Page Up/Down (Move up/down one screen)
+
+
+# Lab 5 content
+* [CLI Commands](docs/cli.md)
