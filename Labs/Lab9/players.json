@@ -1,31 +1,42 @@
 [
-    {
-      "Name": "Lebron James", //String
-      "Sport": "Basketall", //String
-      "Team": {"Name":"Lakers", "City":"Los Angeles"}, // String
-      "Position": "Forward", //String
-      "Age": "38" //Integer
-    },
-  
-    {
-      "Name": "Lionel Messi", //String
-      "Sport": "Soccer", //String
-      "Team": {"Name":"Inter Miami", "City":"Miami"}, //String
-      "Position": "Forward", //String
-      "Age": "36" //Integer
-    },
-    {
-      "Name": "Serena Williams", //String
-      "Sport": "Tennis", //String
-      "Team": {"Name": null, "City":null}, //Null value, no data type
-      "Position": "Player", // Stirng
-      "Age": "41" // Integer
-    },
-    {
-      "Name": "Tom Brady", // String
-      "Sport": "Football", // String
-      "Team": {"Name":"Buccaneers", "City": "Tampa Bay"}, // String
-      "Position": "Quarterback", // String
-      "Age": "46" // Integer
-    }
-  ]
+  {
+    "Name": "Lebron James", //String
+    "Sport": "Basketall", //String
+    "Team": {
+      "Name": "Lakers",
+      "City": "Los Angeles"
+    }, // String
+    "Position": "Forward", //String
+    "Age": "38" //Integer
+  },
+  {
+    "Name": "Lionel Messi", //String
+    "Sport": "Soccer", //String
+    "Team": {
+      "Name": "Inter Miami",
+      "City": "Miami"
+    }, //String
+    "Position": "Forward", //String
+    "Age": "36" //Integer
+  },
+  {
+    "Name": "Serena Williams", //String
+    "Sport": "Tennis", //String
+    "Team": {
+      "Name": null,
+      "City": null
+    }, //Null value, no data type
+    "Position": "Player", // Stirng
+    "Age": "41" // Integer
+  },
+  {
+    "Name": "Tom Brady", // String
+    "Sport": "Football", // String
+    "Team": {
+      "Name": "Buccaneers",
+      "City": "Tampa Bay"
+    }, // String
+    "Position": "Quarterback", // String
+    "Age": "46" // Integer
+  }
+]
